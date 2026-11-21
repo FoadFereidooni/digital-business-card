@@ -1,0 +1,8 @@
+/vendor/
+/profile/*
+/qrcodes/*
+.env
+config.local.php
+*.log
+phpinfo.php
+.DS_Store
